@@ -1,2 +1,0 @@
-# itam
-IT Assets Management
